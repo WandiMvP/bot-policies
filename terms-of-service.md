@@ -1,57 +1,57 @@
-# Syarat & Ketentuan Penggunaan Bot
+# Terms of Service
 
-Terakhir diperbarui: 2 September 2026
+Last Updated: September 2, 2026
 
-Dengan menggunakan Bot kami ("Bot"), yang mencakup layanan **anti-phishing, absensi, monitoring**, dan fitur lainnya, Anda ("Pengguna") menyetujui Syarat & Ketentuan ini. Jika Anda tidak setuju, harap hentikan penggunaan Bot.
+By using our Bot ("Bot"), which includes **anti-phishing, attendance, monitoring**, and other features, you ("User") agree to these Terms of Service. If you do not agree, please stop using the Bot.
 
-## 1. Penerimaan Syarat
+## 1. Acceptance of Terms
 
-Dengan mengakses atau menggunakan Bot, Anda menyetujui untuk terikat oleh Syarat & Ketentuan ini dan Kebijakan Privasi kami. Jika Anda tidak menyetujui salah satu bagian dari ketentuan ini, Anda tidak diizinkan menggunakan Bot.
+By accessing or using the Bot, you agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree to any part of these terms, you are not permitted to use the Bot.
 
-## 2. Perubahan Layanan
+## 2. Service Changes
 
-Kami berhak untuk mengubah, menangguhkan, atau menghentikan layanan Bot (atau bagian darinya) kapan saja tanpa pemberitahuan sebelumnya. Kami juga dapat memperbarui Syarat & Ketentuan ini dari waktu ke waktu. Penggunaan Bot yang berkelanjutan setelah perubahan dianggap sebagai penerimaan Anda terhadap ketentuan yang baru.
+We reserve the right to modify, suspend, or discontinue the Bot's services (or any part thereof) at any time without prior notice. We may also update these Terms of Service from time to time. Continued use of the Bot after changes constitutes your acceptance of the new terms.
 
-## 3. Tanggung Jawab Pengguna
+## 3. User Responsibilities
 
-Dengan menggunakan Bot, Anda setuju untuk:
+By using the Bot, you agree to:
 
-- Menggunakan Bot sesuai dengan **Syarat Layanan Discord** dan hukum yang berlaku di wilayah Anda.
-- Tidak menggunakan Bot untuk tujuan ilegal, jahat, atau merugikan pihak lain.
-- Tidak mencoba untuk merusak, mengganggu, atau membebani server atau infrastruktur Bot.
-- Tidak menggunakan Bot untuk mengirim spam, konten ofensif, atau materi yang melanggar hak cipta.
-- Bertanggung jawab penuh atas semua aktivitas yang terjadi di akun Anda terkait Bot.
+- Use the Bot in compliance with **Discord's Terms of Service** and applicable laws in your jurisdiction.
+- Not use the Bot for illegal, malicious, or harmful purposes.
+- Not attempt to damage, disrupt, or overload the Bot's servers or infrastructure.
+- Not use the Bot to send spam, offensive content, or copyrighted material.
+- Be fully responsible for all activities conducted through your account in relation to the Bot.
 
-## 4. Batasan Tanggung Jawab
+## 4. Limitation of Liability
 
-Bot kami disediakan **"apa adanya" (as-is)** dan **"sesuai ketersediaan" (as-available)**. Kami tidak memberikan jaminan apapun, baik tersurat maupun tersirat, mengenai keakuratan, keandalan, atau ketersediaan Bot.
+Our Bot is provided **"as-is"** and **"as-available"**. We make no warranties, express or implied, regarding the accuracy, reliability, or availability of the Bot.
 
-Kami tidak bertanggung jawab atas:
+We are not liable for:
 
-- Kerusakan langsung, tidak langsung, insidental, atau konsekuensial yang timbul dari penggunaan atau ketidakmampuan menggunakan Bot.
-- Kehilangan data, kerugian finansial, atau kerusakan lainnya.
-- Tindakan pengguna lain atau konten pihak ketiga yang diakses melalui Bot.
+- Direct, indirect, incidental, or consequential damages arising from the use or inability to use the Bot.
+- Data loss, financial loss, or any other damages.
+- Actions of other users or third-party content accessed through the Bot.
 
-## 5. Penggunaan yang Dilarang
+## 5. Prohibited Uses
 
-Anda dilarang menggunakan Bot untuk:
+You are prohibited from using the Bot to:
 
-- Melanggar hukum atau peraturan yang berlaku.
-- Mengirimkan materi yang mengandung virus, malware, atau kode berbahaya lainnya.
-- Melakukan aktivitas yang mengganggu atau merusak pengalaman pengguna lain.
-- Mengumpulkan data pengguna lain tanpa izin.
+- Violate any applicable laws or regulations.
+- Transmit viruses, malware, or other malicious code.
+- Engage in activities that disrupt or harm other users' experience.
+- Collect other users' data without permission.
 
-## 6. Pengakhiran
+## 6. Termination
 
-Kami berhak untuk mengakhiri atau menangguhkan akses Anda ke Bot kapan saja, tanpa pemberitahuan, jika kami percaya Anda telah melanggar Syarat & Ketentuan ini atau bertindak merugikan pengguna lain atau layanan kami.
+We reserve the right to terminate or suspend your access to the Bot at any time, without notice, if we believe you have violated these Terms of Service or acted to the detriment of other users or our services.
 
-## 7. Hukum yang Berlaku
+## 7. Governing Law
 
-Syarat & Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum yang berlaku di **[NEGARA / WILAYAH ANDA]**. Setiap sengketa yang timbul dari atau terkait dengan penggunaan Bot akan diselesaikan di pengadilan yang berwenang di wilayah tersebut.
+These Terms of Service are governed by and construed in accordance with the laws of **[YOUR COUNTRY / REGION]**. Any disputes arising from or related to the use of the Bot shall be resolved in the competent courts of that jurisdiction.
 
-## 8. Kontak
+## 8. Contact Us
 
-Jika Anda memiliki pertanyaan tentang Syarat & Ketentuan ini, silakan hubungi kami di:
+If you have any questions about these Terms of Service, please contact us at:
 
-📧 **Email**: [ALAMAT EMAIL ANDA]  
-🐦 **Discord**: [USERNAME DISCORD ANDA]
+📧 **Email**: wandiroyal@gmail.com
+🐦 **Discord**: Wandi
