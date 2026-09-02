@@ -1,49 +1,49 @@
-# Kebijakan Privasi Bot
+# Privacy Policy
 
-Terakhir diperbarui: 2 September 2026
+Last Updated: September 2, 2026
 
-Kami menghargai privasi Anda. Kebijakan ini menjelaskan bagaimana Bot kami ("Bot") mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda menggunakan layanan **anti-phishing, absensi, monitoring**, dan fitur lainnya.
+We value your privacy. This policy explains how our Bot ("Bot") collects, uses, and protects your information when you use our **anti-phishing, attendance, monitoring**, and other features.
 
-## 1. Informasi yang Kami Kumpulkan
+## 1. Information We Collect
 
-Kami mengumpulkan data minimal yang diperlukan agar Bot dapat berfungsi dengan baik:
+We collect minimal data necessary for the Bot to function properly:
 
-- **ID Pengguna (User ID)**: Untuk mengidentifikasi Anda dan menerapkan fitur seperti batas penggunaan atau anti-spam.
-- **ID Server (Guild ID)**: Untuk menyimpan pengaturan khusus server.
-- **ID Saluran (Channel ID)**: Untuk mengirimkan notifikasi atau laporan di saluran yang tepat.
-- **Konten Pesan**: Bot kami mungkin memproses konten pesan yang Anda kirim untuk menjalankan fungsinya (misalnya, mendeteksi tautan phishing atau mencatat absensi).
-- **Data Kehadiran**: Untuk fitur absensi, kami mengumpulkan data seperti waktu dan tanggal Anda melakukan absen.
+- **User ID**: To identify you and apply features such as usage limits or anti-spam.
+- **Guild ID**: To store server-specific settings.
+- **Channel ID**: To send notifications or reports to the appropriate channels.
+- **Message Content**: Our Bot may process message content you send to perform its functions (e.g., detecting phishing links or recording attendance).
+- **Attendance Data**: For attendance features, we collect data such as time and date of your check-in.
 
-## 2. Bagaimana Kami Menggunakan Informasi Anda
+## 2. How We Use Your Information
 
-Data yang dikumpulkan digunakan untuk:
+The collected data is used to:
 
-- Menyediakan, memelihara, dan meningkatkan layanan Bot.
-- Menerapkan fitur anti-phishing, absensi, dan monitoring.
-- Memecahkan masalah teknis dan memberikan dukungan kepada pengguna.
-- Mencegah penyalahgunaan atau aktivitas yang melanggar ketentuan.
+- Provide, maintain, and improve the Bot's services.
+- Implement anti-phishing, attendance, and monitoring features.
+- Troubleshoot technical issues and provide user support.
+- Prevent misuse or activities that violate our terms.
 
-## 3. Penyimpanan Data
+## 3. Data Storage
 
-Data yang kami kumpulkan disimpan di server kami dengan prosedur keamanan yang layak. Kami tidak menjual, menyewakan, atau membagikan data pribadi Anda kepada pihak ketiga, kecuali diwajibkan oleh hukum yang berlaku.
+The data we collect is stored on our servers with reasonable security measures. We do not sell, rent, or share your personal data with third parties, except as required by applicable law.
 
-## 4. Retensi & Penghapusan Data
+## 4. Data Retention & Deletion
 
-- Data akan disimpan selama Bot masih terpasang di server Anda.
-- Anda dapat meminta penghapusan data Anda dengan menghubungi kami di **[ALAMAT EMAIL ANDA]**.
-- Data yang tidak lagi diperlukan akan dihapus secara berkala.
+- Data will be stored as long as the Bot is installed on your server.
+- You may request deletion of your data by contacting us at **[YOUR EMAIL ADDRESS]**.
+- Data that is no longer needed will be periodically deleted.
 
-## 5. Keamanan Data
+## 5. Data Security
 
-Kami mengambil langkah-langkah keamanan yang wajar untuk melindungi data Anda dari akses tidak sah, perubahan, atau penghancuran. Namun, perlu diingat bahwa tidak ada metode transmisi data melalui internet yang 100% aman.
+We take reasonable security measures to protect your data from unauthorized access, alteration, or destruction. However, please note that no method of data transmission over the internet is 100% secure.
 
-## 6. Perubahan Kebijakan
+## 6. Policy Updates
 
-Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Kami akan memberi tahu Anda tentang perubahan dengan memposting Kebijakan baru di halaman ini. Kami menyarankan Anda untuk meninjau kebijakan ini secara berkala.
+We may update this Privacy Policy from time to time. We will notify you of changes by posting the new policy on this page. We encourage you to review this policy periodically.
 
-## 7. Kontak
+## 7. Contact Us
 
-Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di:
+If you have any questions about this Privacy Policy, please contact us at:
 
-📧 **Email**: [ALAMAT EMAIL ANDA]  
-🐦 **Discord**: [USERNAME DISCORD ANDA]
+📧 **Email**: wandiroyal@gmail.com
+🐦 **Discord**: Wandi
